@@ -1,0 +1,10 @@
+name: Manhunt-Multiverse
+version: '${project.version}'
+main: me.shreyasayyengar.manhuntmultiverse.ManhuntPlugin
+api-version: 1.17
+prefix: Manhunt-Multiverse
+author: Shreyas Ayyengar
+description: Manhunt plugin with Multiverse integration
+
+commands:
+  manhunt:
